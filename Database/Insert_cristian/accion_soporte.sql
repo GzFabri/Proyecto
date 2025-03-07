@@ -1,0 +1,18 @@
+INSERT INTO accion_soporte (id, nombre)
+VALUES (1, Registro de Ticket),
+(2, Asignación de Caso),
+(3, Diagnóstico del Problema),
+(4, Ejecución de Pruebas),
+(5, Escalamiento de Caso),
+(6, Solicitud de Información Adicional),
+(7, Aplicación de Solución),
+(8, Seguimiento al Caso),
+(9, Confirmación con el Cliente),
+(10, Cierre del Ticket),
+(11, Reapertura del Ticket),
+(12, Documentación de la Solución),
+(13, Capacitación del Usuario),
+(14, Mantenimiento Preventivo),
+(15, Notificación al Cliente),
+(16, Implementación de Mejora),
+(17, Derivación a Otro Departamento);

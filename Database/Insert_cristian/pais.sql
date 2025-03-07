@@ -1,0 +1,20 @@
+INSERT INTO pais (id, indicativo, nombre
+) VALUES 
+(1, 57, Colombia),
+(2, 54, Argentina),
+(3, 55, Brasil),
+(4, 57, Bolivia),
+(5, 506, Costa Rica),
+(6, 53, Cuba),
+(7, 593, Ecuador),
+(8, 502, Guatemala),
+(9, 504, Honduras),
+(10, 503, El Salvador),
+(11, 509, Haití),
+(12, 52, Mexico),
+(13, 505, Nicaragua),
+(14, 507, Panamá),
+(15, 595, Paraguy),
+(16, 51, Perú),
+(17, 598, Uruguay),
+(18, 58, Venezuela);
