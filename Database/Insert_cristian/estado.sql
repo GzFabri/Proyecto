@@ -1,6 +1,6 @@
-INSERT INTO estado (id, nombre)
+INSERT INTO estado (nombre)
 VALUES
-(1, Iniciado),
-(2, En progreso),
-(3, Retornar),
-(4, Completado);
+(Iniciado),
+(En progreso),
+(Retornar),
+(Completado);

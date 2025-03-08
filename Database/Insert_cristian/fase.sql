@@ -1,6 +1,6 @@
-INSERT INTO fase (id, nombre
+INSERT INTO fase (nombre
 ) VALUES
-(1, Incio),
-(2, Planificacion),
-(3, Ejecucion),
-(4, Cierre);
+(Incio),
+(Planificacion),
+(Ejecucion),
+(Cierre);

@@ -1,12 +1,12 @@
-INSERT INTO servicio (id, nombre
+INSERT INTO servicio (nombre
 ) VALUES
-(1, Consultoría en Gestión de Proyectos),
-(2, Desarrollo de Software a Medida),
-(3, Implementación de Metodologías Ágiles),
-(4, Gestión de Integraciones y APIs),
-(5, Optimización y Mejora de Procesos),
-(6, Gestión de Infraestructura y DevOps),
-(7, Monitoreo y Control de Proyectos),
-(8, Capacitación en Gestión de Proyectos),
-(9, Seguridad y Cumplimiento Normativo),
-(10, Soporte y Mantenimiento de Software);
+(Consultoría en Gestión de Proyectos),
+(Desarrollo de Software a Medida),
+(Implementación de Metodologías Ágiles),
+(Gestión de Integraciones y APIs),
+(Optimización y Mejora de Procesos),
+(Gestión de Infraestructura y DevOps),
+(Monitoreo y Control de Proyectos),
+(Capacitación en Gestión de Proyectos),
+(Seguridad y Cumplimiento Normativo),
+(Soporte y Mantenimiento de Software);

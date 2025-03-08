@@ -1,10 +1,10 @@
-INSERT INTO estado_servicio (id, nombre
+INSERT INTO estado_servicio (nombre
 ) VALUES
-(1, Al dia),
-(2, Con deuda parcial),
-(3, Moroso),
-(4, En negociación),
-(5, Con financiamiento),
-(6, Suspendido), 
-(7, Inactivo),
-(8, Cliente VIP);
+(Al dia),
+(Con deuda parcial),
+(Moroso),
+(En negociación),
+(Con financiamiento),
+(Suspendido), 
+(Inactivo),
+(Cliente VIP);

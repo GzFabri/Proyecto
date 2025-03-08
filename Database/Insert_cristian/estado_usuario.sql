@@ -1,4 +1,4 @@
-INSERT INTO estado_usuario (id, nombre)
+INSERT INTO estado_usuario (nombre)
 VALUES 
-(1, Activo),
-(2, Inactivo);
+(Activo),
+(Inactivo);

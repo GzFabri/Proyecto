@@ -1,4 +1,4 @@
-INSERT INTO tipo_usuario (id, nombre)
+INSERT INTO tipo_usuario (nombre)
 VALUES 
-(1, Interno),
-(2, Esterno);
+(Interno),
+(Esterno);

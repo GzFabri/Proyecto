@@ -1,12 +1,12 @@
-INSERT INTO permisos (id, nombre
+INSERT INTO permisos (nombre
 ) VALUES
-(1, Ver),
-(2, Crear),
-(3, Eliminar),
-(4, Aprobar),
-(5, Rechazar),
-(6, Actualizar),
-(7, Asignar),
-(8, Configurar Sitemas),
-(9, Imprimir),
-(10, Lactura);
+(Ver),
+(Crear),
+(Eliminar),
+(Aprobar),
+(Rechazar),
+(Actualizar),
+(Asignar),
+(Configurar Sitemas),
+(Imprimir),
+(Lectura);

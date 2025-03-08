@@ -1,5 +1,5 @@
-INSERT INTO prioridad (id, nombre)
+INSERT INTO prioridad (nombre)
 VALUES
-(1, Alta),
-(2, Media),
-(3, Baja);
+(Alta),
+(Media),
+(Baja);
